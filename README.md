@@ -1,8 +1,6 @@
 # Smart-Home using MQTT
-MQTT Adafruit IO powered Smart Home System connected to Google Assistant via IFTTT service.
-Written in Arduino IDE for Arduino Uno/Mega/NodeMCU/esp8266 boards
 
-## Replace the following:
+## **Replace the following:**
 1) "wifiname" with Wifi SSID
 2) "wifipassword" with Wifi Password
 3) "adafruit username" with your Adafruit Username
@@ -11,7 +9,12 @@ Written in Arduino IDE for Arduino Uno/Mega/NodeMCU/esp8266 boards
 6) "<>" with Toggle Values
 7) Baud Rate for your Controller
 
-## Libraries used:
+## **Libraries Used:**
 1) ESP8266WiFi.h 
 2) Adafruit_MQTT.h
 3) Adafruit_MQTT_Client.h 
+
+## **Hardware Used:**
+1) NodeMCU
+2) 4ch 5v Relay Module
+3) Hi-Link 5W 5V DC Power Supply
