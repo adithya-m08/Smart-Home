@@ -1,14 +1,5 @@
 # Smart-Home using MQTT
 
-## **Replace the following:**
-1) "wifiname" with Wifi SSID
-2) "wifipassword" with Wifi Password
-3) "adafruit username" with your Adafruit Username
-4) "adafruit passkey" with your Adafruit Secret Passkey
-5) "feedname" with Feed name you're subscribed to
-6) "<>" with Toggle Values
-7) Baud Rate for your Controller
-
 ## **Libraries Used:**
 1) ESP8266WiFi.h 
 2) Adafruit_MQTT.h
